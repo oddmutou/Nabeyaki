@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Nabeyaki/Nabeyaki.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Nabeyaki/MainWindow.cs">
+    <Files>
+      <File FileName="Nabeyaki/Program.cs" Line="17" Column="1" />
+      <File FileName="Nabeyaki/MainWindow.cs" Line="119" Column="5" />
+      <File FileName="Nabeyaki/AuthDialog.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Nabeyaki" expanded="True">
+            <Node name="Nabeyaki" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="MainWindow.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
